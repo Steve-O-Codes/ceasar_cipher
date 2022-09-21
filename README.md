@@ -1,5 +1,7 @@
 # Python Ceasar's Cipher 🐍📘
 
+*Day 8 of 100 days of Code*
+
 This is Ceasar's Cypher created with Python. 
 The prorgam allows a user to either encode or decode a message based on a certain 
 shift number. For encoding the program will shift the letters forward for by the determined amount. 
